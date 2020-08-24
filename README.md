@@ -1,6 +1,6 @@
 # plotly_deploy
 
-![image](https://github.com/soijebor/plotly_deploy/blob/master/Challenge/Plotly-Deployment-Challenge.png)
+![image](https://github.com/soijebor/plotly_deploy/blob/master/Plotly-Deployment-Challenge.png)
 
 ## Project Overview
   * Create basic plots with Plotly, including bar charts, line charts, and pie charts.
