@@ -1,8 +1,8 @@
-***# plotly_deploy***
+***# Plotly_Deploy***
 
 ***Link to my dashboard:***
 
-*[Click Here - Belly Button Biodiversity Dashboard](https://soijebor.github.io/plotly_deploy/)*
+*[Click Here - Belly Button Biodiversity Dashboard](https://soijebor.github.io/Plotly_Deploy/)*
 
 
 
