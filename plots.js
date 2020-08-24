@@ -14,7 +14,6 @@ function init() {
 
 init();
 
-
 function optionChanged(newSample) {
     buildMetadata(newSample);
     buildCharts(newSample);
@@ -155,3 +154,6 @@ function buildCharts(sample) {
     Plotly.newPlot("gauge", Gauge_Trace, Gauge_layout);
   });
 };
+
+// open page with info for subject Id 940
+optionChanged(940);
